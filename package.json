@@ -1,0 +1,23 @@
+{
+  "name": "lightness-nouveau",
+  "version": "1.0.0",
+  "description": "",
+  "browserslist": "> 0.25%, not dead",
+  "scripts": {
+    "start": "parcel ./starter/src/index.html",
+    "build": "parcel build ./starter/src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catherine-M502/lightness-nouveau.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catherine-M502/lightness-nouveau/issues"
+  },
+  "homepage": "https://github.com/catherine-M502/lightness-nouveau#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
